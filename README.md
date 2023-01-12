@@ -11,9 +11,15 @@ Main developments: added warm start for Sinkhorn and made flow visualization for
 
 <p align="center" width="100%">
     <img width="45%" src="vladi_map.png"> 
+</p>
+<p align="center" width="100%">
     <img width="45%" src="vladi_map_with_flow_color.png"> 
 </p>
 <p align="center" width="100%">
     <img width="45%" src="vladi_map_with_flow_color_opacity.png"> 
+</p>
+
+Реальные пробки Владивостока на Яндекс картах
+<p align="center" width="100%">
     <img width="45%" src="ya_maps.png"> 
 </p>
